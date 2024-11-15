@@ -6,11 +6,11 @@ This is a basic, responsive website with four pages and a navigation menu.
 
 The repository is structured as follows:
 
-my-responsive-website/
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
+my-responsive-website
+── index.html
+── about.html
+── services.html
+── contact.html
 └── css/
 └── style.css
 
